@@ -33,7 +33,7 @@ Bestellformulare für eingeschränkte Personengruppen
 ## Open Data Projekte aus Karlsruhe
 - [farmshops.eu](https://ok-lab-karlsruhe.de/projekte/direktvermarkter-karte/) Übersichtskarte von Hofläden, Direktvermarktern, Milchautomaten, ... ([Direktlink](https://farmshops.eu/))
 - [wo-ist-markt.de](https://github.com/wo-ist-markt/wo-ist-markt.github.io) Wo ist Markt in Karlsruhe? Wann und wo finden Wochenmärkte statt? ([Direktlink](https://www.wo-ist-markt.de/#karlsruhe))
-- [CO₂ runter](https://co2app.karlsruhe.de/home) Rechner: Wie viel CO2 könnte ich einsparen? ([Dashboard](https://co2dash.karlsruhe.de/home), [Details](https://ok-lab-karlsruhe.de/projekte/klimadashboard/))
+- [CO₂ runter](https://co2runter.ok-lab-karlsruhe.de/) Rechner: Wie viel CO2 könnte ich einsparen? ([Vorgängerversion](https://ok-lab-karlsruhe.de/projekte/klimadashboard/))
 - [klimawatch.de](https://klimawatch.de/) Wie siehts aus mit Klimaschutz in meiner Kommune?
 - [Baumkataster Karlsruhe](https://ok-lab-karlsruhe.de/projekte/baumkataster/) Wo gibt es welche Bäume in Karlsruhe? ([Direktlink](https://codeforkarlsruhe.github.io/baumkataster/))
 - [Access Map](https://accessmap.karlsruhe.codefor.de/) Wie sieht Karlsruhe für Rollstuhlfahrer aus? Visualisierung der Barrierefreiheit von Karlsruher ÖPNV Haltestellen.
