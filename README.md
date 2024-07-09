@@ -9,7 +9,6 @@ Liste von [Open Data](https://www.govdata.de/open-government) Portalen und Resso
 - [Statistikatlas Karlsruhe](https://web6.karlsruhe.de/Stadtentwicklung/statistik/atlas/)
 - [Interaktiver Jahresabschluss](https://primary.axians-ikvs.de/sj/Produkthaushalt.xhtml?jahr=2020&kid=185b19qf18jl18cg18jl185b185b185b185b185b185b185b185b185b185b18jh18ce18jh19pz185b&typ=19x419xk19x219xi&dswid=516)
 - [Ratsinformationssystem mit Sitzungsprotokollen aus dem Gemeinderat](https://sitzungskalender.karlsruhe.de/db/ratsinformation/start)
-
 - [Open Data Initiative des KVV](https://www.kvv.de/fahrplan/fahrplaene/open-data.html)
   - Soll-Fahrplandaten-Archiv ([Download GTFS-Archiv](https://projekte.kvv-efa.de/GTFS/google_transit.zip), CC0)
   - TRIAS-Schnittstelle: Echtzeit Fahrplanauskunft (Zugang auf Anfrage)
@@ -26,10 +25,6 @@ Liste von [Open Data](https://www.govdata.de/open-government) Portalen und Resso
 - [OK Lab Karlsruhe (Code for Karlsruhe)](https://ok-lab-karlsruhe.de/)
 - [Open Street Maps Karlsruhe Meetup](https://wiki.openstreetmap.org/wiki/Karlsruhe)
 
-## Auf Anfrage (nicht wirklich Open Data)
-Bestellformulare für eingeschränkte Personengruppen
-- [Geodatenbestellung für Forschung und Lehre](https://web1.karlsruhe.de/service/Formulare/LA/Bestell1/) oder  [Firmenkunden im Auftrag der Stadt](https://web1.karlsruhe.de/service/Formulare/LA/Bestell2/), Luftbilder oder Regiokarte Karlsruhe: Rasterbilder, Kontakt Anfrage: `geoportal(at)la.karlsruhe.de`
-
 ## Open Data Projekte aus Karlsruhe
 - [farmshops.eu](https://ok-lab-karlsruhe.de/projekte/direktvermarkter-karte/) Übersichtskarte von Hofläden, Direktvermarktern, Milchautomaten, ... ([Direktlink](https://farmshops.eu/))
 - [wo-ist-markt.de](https://github.com/wo-ist-markt/wo-ist-markt.github.io) Wo ist Markt in Karlsruhe? Wann und wo finden Wochenmärkte statt? ([Direktlink](https://www.wo-ist-markt.de/#karlsruhe))
@@ -42,7 +37,7 @@ Bestellformulare für eingeschränkte Personengruppen
 - [daten.bw: Open Data für Baden-Württemberg](https://www.daten-bw.de/)
 - [digital LÄND](https://digital-laend.de/) (Übersicht und Informationen Digitalisierungsstrategie, Mobilfunkausbau, Breitbandbericht, Gigabit-Studie, Cybersicherheitsstrategie, Datenagenda, ...)
 - [Landesamt für Umwelt (LUBW)](https://www.lubw.baden-wuerttemberg.de/) ([Umweltportal BW](https://umweltportal.baden-wuerttemberg.de/umweltdaten), [Aktuelle Messwerte](https://www.lubw.baden-wuerttemberg.de/aktuelle-messwerte), [Daten- und Kartendienst (UDO)](https://udo.lubw.baden-wuerttemberg.de))
-- [Open Data Angebot des Landesamt für Geoinformation und Landentwicklung (LGL BW)](https://www.lgl-bw.de/Produkte/Open-Data/) mit [Geoportal Baden-Württemberg](https://www.geoportal-bw.de/), Raster- und Vektordaten, Geodatendienste
+- [Open Data Angebot des Landesamt für Geoinformation und Landentwicklung (LGL BW)](https://www.lgl-bw.de/Produkte/Open-Data/) mit dem [Open GeoData Portal](https://opengeodata.lgl-bw.de) und dem [Geoportal Baden-Württemberg](https://www.geoportal-bw.de/), Raster- und Vektordaten, Geodatendienste
 - [MobiData BW: Mobilitätsrelevante Daten und Services](https://mobidata-bw.de/dataset) (APIs und Downloads)
 - [Umwelttechnik BW: Tools für Ressourceneffizienz](https://www.umwelttechnik-bw.de/de/inhalte/tools)
 - [KlikKS Ehrenamtliche Klimaschutzpat:innen](https://klikks-bw.de/), [Landesenergieagentur KEA-BW Förderdatenbank](https://www.kea-bw.de/foerderdatenbank), [Klimaschutzland BW](https://klimaschutzland.baden-wuerttemberg.de/)
