@@ -12,6 +12,8 @@ Liste von [Open Data](https://www.govdata.de/open-government) Portalen und Resso
 - [Open Data Initiative des KVV](https://www.kvv.de/fahrplan/fahrplaene/open-data.html)
   - Soll-Fahrplandaten-Archiv ([Download GTFS-Archiv](https://projekte.kvv-efa.de/GTFS/google_transit.zip), CC0)
   - TRIAS-Schnittstelle: Echtzeit Fahrplanauskunft (Zugang auf Anfrage)
+- [re@di OpenDataPortal für Baden-Baden, Bretten, Bruchsal, Ettlingen, Rastatt, Rheinstetten und Stutensee](https://opendata.readi.de)
+- [Test Area Autonomous Driving Baden-Württemberg Dataset](https://github.com/fzi-forschungszentrum-informatik/test-area-autonomous-driving-dataset) (Fahrstrecken, Verkehrssignale und Karten)
 
 ## Einzel-Dokumente
 - [Digitalstrategie der Stadt Karlsruhe](https://web1.karlsruhe.de/ris/oparl/bodies/0001/downloadfiles/00635290.pdf) (pdf)
@@ -24,6 +26,7 @@ Liste von [Open Data](https://www.govdata.de/open-government) Portalen und Resso
   - Smart City:  smart.city[at]karlsruhe.de
 - [OK Lab Karlsruhe (Code for Karlsruhe)](https://ok-lab-karlsruhe.de/)
 - [Open Street Maps Karlsruhe Meetup](https://wiki.openstreetmap.org/wiki/Karlsruhe)
+- FZI Forschungszentrum Informatik
 
 ## Open Data Projekte aus Karlsruhe
 - [farmshops.eu](https://ok-lab-karlsruhe.de/projekte/direktvermarkter-karte/) Übersichtskarte von Hofläden, Direktvermarktern, Milchautomaten, ... ([Direktlink](https://farmshops.eu/))
@@ -32,6 +35,7 @@ Liste von [Open Data](https://www.govdata.de/open-government) Portalen und Resso
 - [klimawatch.de](https://klimawatch.de/) Wie siehts aus mit Klimaschutz in meiner Kommune?
 - [Baumkataster Karlsruhe](https://ok-lab-karlsruhe.de/projekte/baumkataster/) Wo gibt es welche Bäume in Karlsruhe? ([Direktlink](https://codeforkarlsruhe.github.io/baumkataster/))
 - [Access Map](https://accessmap.karlsruhe.codefor.de/) Wie sieht Karlsruhe für Rollstuhlfahrer aus? Visualisierung der Barrierefreiheit von Karlsruher ÖPNV Haltestellen.
+
 
 # Ressourcen für Baden-Württemberg
 - [daten.bw: Open Data für Baden-Württemberg](https://www.daten-bw.de/)
@@ -44,8 +48,10 @@ Liste von [Open Data](https://www.govdata.de/open-government) Portalen und Resso
 - [Landeskunde BW](https://www.leo-bw.de/)
  
 # Ressourcen für Deutschland
-- [Govdata: Open Government Datenportal für Deutschland](https://www.govdata.de/) (mehr: TODO https://www.govdata.de/open-government)
+- [Govdata: Open Government Datenportal für Deutschland](https://www.govdata.de/) (mehr: TODO https://www.govdata.de/open-government, [High Value Datasets](https://www.govdata.de/suche?tags=hvd)
 - [Statistisches Bundesamt GENESIS DeStatis](https://www-genesis.destatis.de/genesis/online)
+- [Regionalstatistik - Regionaldatenbank Deutschland](https://www.regionalstatistik.de/genesis/online/)
+- [Statistikportal](https://statistikportal.de) und [Unfallatlas](https://unfallatlas.statistikportal.de/)
 - [Geoportal](https://www.geoportal.de/)
 - [Basemap: Amtliche Karten von Deutschland](https://basemap.de/) (Rasterkarten, Vektorkarten, Relief- und Höhenschichtenkarten zur Nutzung mit APIs, zum Download und zur Ansicht im [Web Viewer](https://basemap.de/viewer/) sowie [Beta für offene Basisdaten](https://basemap.de/open_data/))
 - [OpenStreetMap](https://openstreetmap.de/)
